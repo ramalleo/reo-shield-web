@@ -1,0 +1,6 @@
+{
+  "name": "REO AI & REO-Shield v2.0",
+  "description": "AI Cybersecurity & Cognitive Vulnerability Education command center powered by REO-Shield telemetry, Red/Blue audit arena, and CVE-EDU patch verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
